@@ -19,11 +19,6 @@
       "name": "Teste",
       "price": "12.00",
       "id": 4
-    },
-    {
-      "name": "novo produto",
-      "price": "10.00",
-      "id": 5
     }
   ]
 }
